@@ -1,6 +1,6 @@
 [package]
-name = "1foreverhd/zoneplus"
-description = "Construct dynamic zones that utilise region checking, raycasting and the new BasePart.CanTouch property to effectively determine players and parts within their boundaries."
+name = "encrxyptedEthan/zoneplus"
+description = "A fork of 1foreverhd's zoneplus module."
 license = "MIT"
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
